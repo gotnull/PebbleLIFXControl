@@ -1,0 +1,25 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "40541e45-71fa-4f70-9387-51c44a8ec171",
+    "appKeys": {},
+    "longName": "LIFX",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "LIFX",
+    "companyName": "fulvio",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "MENU_ICON",
+                "file": "images/LIFX.png"
+            }
+        ]
+    }
+}
